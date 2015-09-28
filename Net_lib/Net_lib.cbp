@@ -34,7 +34,13 @@
 		</Compiler>
 		<Unit filename="H_Namespace_funtions.h" />
 		<Unit filename="Header.h" />
+		<Unit filename="Layer.cpp" />
+		<Unit filename="Layer.h" />
 		<Unit filename="Namespace_functions.cpp" />
+		<Unit filename="Neuron_net.cpp" />
+		<Unit filename="Neuron_net.h" />
+		<Unit filename="Nueron.cpp" />
+		<Unit filename="Nueron.h" />
 		<Unit filename="Realise.cpp" />
 		<Unit filename="Test_set.cpp" />
 		<Unit filename="main.cpp" />
