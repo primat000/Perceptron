@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1443383199 source:c:\users\key\desktop\net_lib\main.cpp
+	<iostream>
+	"Header.h"
+	"H_Namespace_funtions.h"
+
+1443467303 c:\users\key\desktop\net_lib\header.h
+	"vector"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"H_Namespace_funtions.h"
+	<cmath>
+	"Layer.h"
+	"Nueron.h"
+	"Neuron_net.h"
+
+1443465665 source:c:\users\key\desktop\net_lib\realise.cpp
+	"Header.h"
+
+1443021109 source:c:\users\key\desktop\net_lib\test_set.cpp
+
+1443035567 source:c:\users\key\desktop\net_lib\namespase_functions.cpp
+	"H_Namespace_funtions.h"
+
+1443034935 c:\users\key\desktop\net_lib\namespase_functions.cpp
+
+1443467268 c:\users\key\desktop\net_lib\h_namespace_funtions.h
+	<cmath>
+
+1443467268 source:c:\users\key\desktop\net_lib\namespace_functions.cpp
+	"H_Namespace_funtions.h"
+
+1443467921 source:c:\users\key\desktop\net_lib\layer.cpp
+	"Header.h"
+
+1443467268 c:\users\key\desktop\net_lib\layer.h
+
+1443467268 c:\users\key\desktop\net_lib\nueron.h
+
+1443465430 c:\users\key\desktop\net_lib\neuron_net.h
+
+1443465609 source:c:\users\key\desktop\net_lib\neuron_net.cpp
+	"Header.h"
+
+1443467268 source:c:\users\key\desktop\net_lib\nueron.cpp
+	"Header.h"
+
