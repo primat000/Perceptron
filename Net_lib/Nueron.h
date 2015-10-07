@@ -24,6 +24,7 @@ public:
     double get_weight(int n);
     double get_exit();
     void change_function(double (*f)(double));
+    void change_weight (int n, double w);
 };
 
 

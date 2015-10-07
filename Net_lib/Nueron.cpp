@@ -12,7 +12,7 @@ neuron::neuron(double(*f)(double), vector<double> w , layer* nl)
 };
 neuron::neuron()
 {
-    double (*f)(double) = functions::th;
+    double (*f)(double) = functions::logistic_function;
     function_type = f;
     weights = {};
     inputs = NULL;
@@ -76,5 +76,9 @@ void neuron::weight_ini(int n)
  {
      function_type = f;
  }
+void neuron::change_weight (int n, double w)
+{
+    weights[n]=w;
+}
 
 
